@@ -1,0 +1,10 @@
+body {
+    background-color: hsla(209, 61%, 41%, 0.396);
+    /* Цвет фона */
+    margin: 0;
+    /* Убираем отступы */
+    font-family: 'Arial', sans-serif;
+    /* Шрифт текста */
+    color: #390ff500;
+    /* Цвет текста */
+}
